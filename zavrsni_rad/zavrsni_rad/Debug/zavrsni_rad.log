@@ -1,0 +1,29 @@
+﻿  functions.c
+C:\Users\mani\source\repos\zavrsni_rad\zavrsni_rad\functions.c(23,12): warning C4047: 'return': 'int' differs in levels of indirection from 'sokovi *'
+C:\Users\mani\source\repos\zavrsni_rad\zavrsni_rad\functions.c(33,13): warning C4047: 'return': 'int' differs in levels of indirection from 'kava *'
+C:\Users\mani\source\repos\zavrsni_rad\zavrsni_rad\functions.c(44,16): warning C4047: 'return': 'int' differs in levels of indirection from 'alkohol *'
+C:\Users\mani\source\repos\zavrsni_rad\zavrsni_rad\functions.c(54,13): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+C:\Users\mani\source\repos\zavrsni_rad\zavrsni_rad\functions.c(65,13): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+C:\Users\mani\source\repos\zavrsni_rad\zavrsni_rad\functions.c(75,13): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+C:\Users\mani\source\repos\zavrsni_rad\zavrsni_rad\functions.c(87,13): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+C:\Users\mani\source\repos\zavrsni_rad\zavrsni_rad\functions.c(98,13): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+C:\Users\mani\source\repos\zavrsni_rad\zavrsni_rad\functions.c(109,13): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+C:\Users\mani\source\repos\zavrsni_rad\zavrsni_rad\functions.c(120,14): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+C:\Users\mani\source\repos\zavrsni_rad\zavrsni_rad\functions.c(132,13): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+C:\Users\mani\source\repos\zavrsni_rad\zavrsni_rad\functions.c(144,14): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+C:\Users\mani\source\repos\zavrsni_rad\zavrsni_rad\functions.c(155,13): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+C:\Users\mani\source\repos\zavrsni_rad\zavrsni_rad\functions.c(166,14): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+C:\Users\mani\source\repos\zavrsni_rad\zavrsni_rad\functions.c(177,13): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+C:\Users\mani\source\repos\zavrsni_rad\zavrsni_rad\functions.c(193,24): warning C4047: 'function': 'sokovi *' differs in levels of indirection from 'sokovi **'
+C:\Users\mani\source\repos\zavrsni_rad\zavrsni_rad\functions.c(193,20): warning C4024: 'ispis_gaziranog': different types for formal and actual parameter 1
+C:\Users\mani\source\repos\zavrsni_rad\zavrsni_rad\functions.c(194,27): warning C4047: 'function': 'sokovi *' differs in levels of indirection from 'sokovi **'
+C:\Users\mani\source\repos\zavrsni_rad\zavrsni_rad\functions.c(194,23): warning C4024: 'ispis_ne_gaziranog': different types for formal and actual parameter 1
+C:\Users\mani\source\repos\zavrsni_rad\zavrsni_rad\functions.c(195,27): warning C4047: 'function': 'kava *' differs in levels of indirection from 'kava **'
+C:\Users\mani\source\repos\zavrsni_rad\zavrsni_rad\functions.c(195,22): warning C4024: 'ispis_kave_obicne': different types for formal and actual parameter 1
+C:\Users\mani\source\repos\zavrsni_rad\zavrsni_rad\functions.c(196,30): warning C4047: 'function': 'kava *' differs in levels of indirection from 'kava **'
+C:\Users\mani\source\repos\zavrsni_rad\zavrsni_rad\functions.c(196,25): warning C4024: 'ispis_kave_cappucino': different types for formal and actual parameter 1
+C:\Users\mani\source\repos\zavrsni_rad\zavrsni_rad\functions.c(197,35): warning C4047: 'function': 'alkohol *' differs in levels of indirection from 'alkohol **'
+C:\Users\mani\source\repos\zavrsni_rad\zavrsni_rad\functions.c(197,27): warning C4024: 'ispis_alkohola_zestoko': different types for formal and actual parameter 1
+C:\Users\mani\source\repos\zavrsni_rad\zavrsni_rad\functions.c(198,34): warning C4047: 'function': 'alkohol *' differs in levels of indirection from 'alkohol **'
+C:\Users\mani\source\repos\zavrsni_rad\zavrsni_rad\functions.c(198,26): warning C4024: 'ispis_alkohola_obicni': different types for formal and actual parameter 1
+  zavrsni_rad.vcxproj -> C:\Users\mani\source\repos\zavrsni_rad\Debug\zavrsni_rad.exe
